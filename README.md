@@ -1,1 +1,1 @@
-# bmjain2-project
+I used a 3D U-Net architecture to perform tumor segmentation on the 3D Brain MRI Scans. I used the differentiable Dice Loss criterion to train the network -- it helps overcome the data imbalance issue.
